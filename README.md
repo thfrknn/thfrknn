@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taha Furkan</h1>
-<h3 align="center">A passionate Desktop Application Developer from Turkey</h3>
+<h3 align="center">A passionate Software Developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Car Parts Managment System](https://github.com/thfrknn/Car-Part-Managment-System)
+- 🔭 I’m currently working on [Sales Marketing Department Performance Tracker](https://github.com/thfrknn/Speech_Recognition-Project)
 
-- 🌱 I’m currently learning **Go Lang & MongoDB**
+- 🌱 I’m currently learning **Python && Machine Learning**
 
 - 📫 How to reach me **tahafurkan.sen@gmail.com**
 
